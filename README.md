@@ -78,4 +78,4 @@ When you double-click the island to open the main panel, you will find the follo
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for more details[cite: 2].
+This project is licensed under the MIT License. See the License file for more details
