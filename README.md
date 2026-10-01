@@ -1,7 +1,9 @@
+
 # Dynamic Island PC
 
 A modern Windows application that brings the interactive **Dynamic Island** experience directly to your desktop. It acts as a sleek, floating island that can be positioned anywhere on your screen, packing useful widgets, tools, and shortcuts into a compact interface.
 
+---
 
 ## 💡 What It Does & How It Works
 
@@ -12,6 +14,7 @@ By default, the floating island discreetly shows core status elements:
 * **Free Positioning:** You can drag and place the island anywhere on your screen.
 * **Expanded View (Double-Click):** Double-clicking the island expands it into a full panel. Inside, you can use the **X** button in the top-right corner to close the app, or click the minimize button (alternatively, double-clicking the island again minimizes it back).
 
+---
 
 ## 🗂️ Expanded Panel & Tabs Breakdown
 
@@ -54,15 +57,17 @@ When you double-click the island to open the main panel, you will find the follo
 * Toggles whether the app should launch automatically with Windows.
 
 
+
+---
+
 ## 🚀 How to Use
 
 1. Go to the **Releases** section of this repository.
 
 
-2. Download the executable file.
-3. Make sure you meet the requirements below and run the application.
-
-
+2. Download the `DynamicIslandPC.zip` file.
+3. Extract the contents of the `.zip` file to a folder of your choice.
+4. Open the extracted folder and run `DynamicIslandPC.exe` to start the application.
 
 ## 🛠️ Requirements
 
