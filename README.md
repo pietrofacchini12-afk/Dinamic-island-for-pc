@@ -5,6 +5,10 @@ A modern Windows application that brings the interactive **Dynamic Island** expe
 
 ---
 
+## You NEED the .NET in your Pc so the code can run
+## Path for finding the Program: FloatingIsland-files.zip\bin\Debug\net6.0-windows10.0.19041.0
+   The program is the DinamicIsland.exe
+
 ## 💡 What It Does & How It Works
 
 By default, the floating island discreetly shows core status elements:
@@ -32,7 +36,7 @@ When you double-click the island to open the main panel, you will find the follo
 
 3. **Screen Translation Overlay Tab:**
 * Designed to translate the current page or screen content.
-* *Status:* Currently in early development and barely functional, as it has a strict 500-character limit while most pages easily exceed it.
+
 
 
 4. **File Search Tab:**
@@ -65,7 +69,7 @@ When you double-click the island to open the main panel, you will find the follo
 1. Go to the **Releases** section of this repository.
 
 
-2. Download the `DynamicIslandPC.zip` file.
+2. Download the `.zip` file.
 3. Extract the contents of the `.zip` file to a folder of your choice.
 4. Open the extracted folder and run `DynamicIslandPC.exe` to start the application.
 
@@ -76,6 +80,4 @@ When you double-click the island to open the main panel, you will find the follo
 
 * **.NET Runtime:** You must have **.NET** installed on your machine for the application to execute properly.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the License file for more details
+## No license involved
